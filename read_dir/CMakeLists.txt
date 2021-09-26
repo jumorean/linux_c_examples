@@ -1,0 +1,1 @@
+add_executable(read_dir read_dir.c)
